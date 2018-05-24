@@ -27,8 +27,8 @@ public class PrecioDeTiquetesAereosPage extends PageObject {
 	WebElement txtRegreso;
 	//String origen = "Medellín";
 	//String destino = "Cartagena";
-	String fechaSalida = "3 Septiembre 2018";
-	String fechaRegreso = "29 Septiembre 2018";
+	String fechaSalida = "2018-09-03";
+	String fechaRegreso = "2018-09-29";
 	WebElement btnPopup;
 	WebElement txtPasajeros;
 	WebElement tbnBuscar;
